@@ -1,2 +1,2 @@
 # SampleVS
-Use bilinear interpolation to move through randomly select samples
+Use bilinear interpolation to move through randomly selected samples
